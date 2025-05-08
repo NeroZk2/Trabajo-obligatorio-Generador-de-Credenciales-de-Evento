@@ -32,3 +32,15 @@ El patrón Singleton se aplica en la clase `CredencialesController`, encargada d
 ---
 
 ## 📂 Estructura del proyecto
+
+Generador de Credenciales de Evento/
+├── nbproject/
+├── build/
+├── dist/
+├── src/
+│   ├── app/
+│   │   └── main.java
+│   └── clases/
+│       ├── Credencial.java
+│       └── CredencialesController.java
+├── test/

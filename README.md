@@ -33,8 +33,9 @@ El patrón Singleton se aplica en la clase `CredencialesController`, encargada d
 
 
 ## 🔄 Cómo ejecutar el programa
-
-1. Abre NetBeans.
-2. Ve a `Archivo > Abrir proyecto` y selecciona la carpeta del proyecto.
-3. Cargamos el proyecto.
-4. Selecciona `Ejecutar` o presiona **F6**.
+1. Descargar `Generador de Credenciales de Evento.rar`.
+2. Descomprimir archivo rar.
+3. Abre NetBeans.
+4. Ve a `Archivo > Abrir proyecto` y selecciona la carpeta del proyecto.
+5. Cargamos el proyecto.
+6. Selecciona `Ejecutar` o presiona **F6**.

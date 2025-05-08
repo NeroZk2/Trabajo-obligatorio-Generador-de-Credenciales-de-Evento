@@ -39,4 +39,4 @@ El patrón Singleton se aplica en la clase `CredencialesController`, encargada d
 3. Abre NetBeans.
 4. Ve a `Archivo > Abrir proyecto` y selecciona la carpeta del proyecto.
 5. Cargamos el proyecto.
-6. Selecciona `Ejecutar` o presiona **F6**.
+6. Selecciona `Ejecutar`.

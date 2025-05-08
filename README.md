@@ -30,7 +30,8 @@ El patrón Singleton se aplica en la clase `CredencialesController`, encargada d
 - Asegura que solo exista una instancia del controlador.
 
 ---
-
+## Diagrama UML
+![Diagrama UML](DiagramaUML.png)
 
 ## 🔄 Cómo ejecutar el programa
 1. Descargar `Generador de Credenciales de Evento.rar`.
